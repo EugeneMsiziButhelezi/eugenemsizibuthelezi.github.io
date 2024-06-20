@@ -23,23 +23,18 @@ author:
   # Biographic information
   avatar           : "msizipicture.png"
   name             : "Eugene Msizi Buthelezi"
-  pronouns         : "Dr"  
-  bio              : "Eugene Msizi Buthelezi, I hold a Ph.D. in economics from the University of KwaZulu-Natal. Currently, the author is an nGAP Lecturer at the University of Free. My research interest is on macroeconomic modelling; fiscal policy, and monetary policy  "
+  bio              : I hold a Ph.D. in economics from the University of KwaZulu-Natal. Currently, I am an nGAP Lecturer at the University of Free. "
   location         : "Bloemfontein"
   employer         : "University of Free State"
   URI              : "https://www.ufs.ac.za/econ/faculty-of-economic-and-management-sciences-home"
   email            : "msizi1106@gmail.com" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sj06OQsAAAAJ"
   orcid            : "http://orcid.org/yourorcidurl"
-  researchgate     : # URL
 
   # Social media
   facebook         : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : # Username
   twitter          : # Username for X / Twitter
   youtube          : # Username
