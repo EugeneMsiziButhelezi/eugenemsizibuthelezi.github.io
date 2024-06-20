@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "msizipicture.png"
+  avatar           : "msizipicture.jpg"
   name             : "Eugene Msizi Buthelezi"
   bio              : I hold a Ph.D. in economics from the University of KwaZulu-Natal. Currently, I am an nGAP Lecturer at the University of Free. "
   location         : "Bloemfontein"
